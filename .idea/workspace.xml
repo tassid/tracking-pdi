@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b15f98-8e30-458d-b414-2716515d5e86" name="Changes" comment="feat: auto face tracking">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="11b15f98-8e30-458d-b414-2716515d5e86" name="Changes" comment="updated readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758657811844</updated>
       <workItem from="1758755746443" duration="2803000" />
-      <workItem from="1758758948500" duration="843000" />
+      <workItem from="1758758948500" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="feat: auto face tracking">
       <option name="closed" value="true" />
@@ -101,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758759454433</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated readme.md">
+      <option name="closed" value="true" />
+      <created>1758759860303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758759860303</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: auto face tracking" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: auto face tracking" />
+    <MESSAGE value="updated readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated readme.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tracking_pdi$tracking.coverage" NAME="tracking Coverage Results" MODIFIED="1758757475310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
